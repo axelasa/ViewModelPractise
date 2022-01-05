@@ -19,12 +19,8 @@ and in your main activity all you have to do is to crate an instace of your view
 
 below are screenshots to show you the working.
 
-<img width="1440" alt="Screenshot 2022-01-05 at 15 43 40" src="https://user-images.githubusercontent.com/30687283/148228712-ee343fb6-2f46-4500-809c-e1702d9a1ba9.png">
-
-<img width="1440" alt="Screenshot 2022-01-05 at 15 43 53" src="https://user-images.githubusercontent.com/30687283/148228812-22960390-ac95-40f6-ad0a-8d83b192c3ba.png">
+<img width="1440" alt="Screenshot 2022-01-05 at 16 29 29" src="https://user-images.githubusercontent.com/30687283/148249032-48554813-905f-470a-9e39-e86203f4b1ca.png">
 
 <img width="1440" alt="Screenshot 2022-01-05 at 15 43 40" src="https://user-images.githubusercontent.com/30687283/148248996-ed56a2d3-3eea-4e57-9cb0-a46857aaadce.png">
 
 <img width="1440" alt="Screenshot 2022-01-05 at 15 43 53" src="https://user-images.githubusercontent.com/30687283/148249022-bd4692c0-9ae9-4f3c-9d55-d19465931317.png">
-
-<img width="1440" alt="Screenshot 2022-01-05 at 16 29 29" src="https://user-images.githubusercontent.com/30687283/148249032-48554813-905f-470a-9e39-e86203f4b1ca.png">
